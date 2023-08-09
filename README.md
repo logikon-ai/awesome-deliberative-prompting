@@ -2,7 +2,7 @@
 
 **>>> 🚧 UNDER CONSTRUCTION 🚧 <<<**
 
-**Awesome deliberative prompting: How to make LLMs produce reliable reasoning and make reason-responsive decisions.**
+**Awesome deliberative prompting: How to ask LLMs to produce reliable reasoning and make reason-responsive decisions.**
 
 > **deliberation**, n.
 >
