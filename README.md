@@ -1,8 +1,8 @@
-# awesome-deliberative-prompting
+# Awesome Deliberative Prompting
 
 **>>> 🚧 UNDER CONSTRUCTION 🚧 <<<**
 
-Awesome material on deliberative prompting with LLMs 
+Awesome deliberative prompting: How to make LLMs produce reliable reasoning and reason-responsive decision-making. 
 
 > **deliberation**, n.
 >
