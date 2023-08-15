@@ -11,7 +11,7 @@
 
 ## Reflection
 
-* Metacognitive Prompting Improves Understanding in Large Language Models. 2023-08-10. [[📄 paper]](https://arxiv.org/abs/2308.05342) [[👩‍💻 code]](https://github.com/EternityYW/Metacognitive-Prompting)
+* Metacognitive Prompting Improves Understanding in Large Language Models. 2023-08-10. [[📄 paper](https://arxiv.org/abs/2308.05342)] [[👩‍💻 code](https://github.com/EternityYW/Metacognitive-Prompting)]
 
 ## Self-Check
 
