@@ -9,7 +9,11 @@
 > The action of thinking carefully about something, esp. in order to reach a decision; careful consideration; an act or instance of this. (OED)
 
 
+## Reflection
 
+* Metacognitive Prompting Improves Understanding in Large Language Models. 23-08-10 [📄](https://arxiv.org/abs/2308.05342) [👩‍💻](https://github.com/EternityYW/Metacognitive-Prompting)
+
+## Self-Check
 
 ## Limitations, Failures, Puzzles
 
