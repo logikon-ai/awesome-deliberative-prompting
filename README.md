@@ -9,6 +9,19 @@
 > The action of thinking carefully about something, esp. in order to reach a decision; careful consideration; an act or instance of this. (OED)
 
 
+## Contents
+
+- [Success Stories](#success-stories)
+- [Prompting Patterns and Strategies](#prompting-patterns-and-strategies)
+  - [Beyond "Let's think step by step"](#beyond-lets-think-step-by-step)
+  - [Multi-Agent Deliberation](#multi-agent-deliberation)
+  - [Reflection and Meta-Cognition](#reflection-and-meta-cognition)
+- [Text Generation Techniques](#text-generation-techniques)
+- [Self-correction](#self-correction)
+- [Limitations, Failures, Puzzles](#limitations-failures-puzzles)
+- [Datasets](#datasets-for-deliberative-prompting)
+- [Tools and Frameworks](#tools-and-frameworks)
+
 
 ## Success Stories
 
@@ -30,7 +43,7 @@ Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.
 * 🎓 Deliberate-then-Generate improves text quality. "Deliberate then Generate: Enhanced Prompting Framework for Text Generation." 2023-05-31. [[>paper](https://arxiv.org/abs/2305.19835)]
 
 
-### Multi-Agent Debate
+### Multi-Agent Deliberation
 
 Let one (or many) LLMs simulate a free controversy.
 
