@@ -19,7 +19,7 @@
 - [Text Generation Techniques](#text-generation-techniques)
 - [Self-Correction](#self-correction)
 - [Limitations, Failures, Puzzles](#limitations-failures-puzzles)
-- [Datasets](#datasets-for-deliberative-prompting)
+- [Datasets](#datasets)
 - [Tools and Frameworks](#tools-and-frameworks)
 - [Other Resources](#other-resources)
 
@@ -42,7 +42,7 @@ Prompting strategies and patterns to make LLMs deliberate.
 ### Beyond "Let's think step by step" 
 
 - Weighing Pros and Cons: This universal deliberation paradigm can be implemented with LLMs.
-  - 👩‍💻 A _{{guidance}}_ program that does: 1. Identify Options → 2. Generate Pros and Cons → 3. Weigh Reasons → 4. Decide. [[>code](https://github.com/guidance-ai/guidance#role-based-chat-model-example-notebook)]
+  - 👩‍💻 A _{{guidance}}_ program that does: 1. Identify Options → 2. Generate Pros and Cons → 3. Weigh Reasons → 4. Decide. [[>code](https://github.com/guidance-ai/guidance/blob/main/README.md#role-based-chat-model-example-notebook)]
 - 🎓 👩‍💻 Plan-and-Solve Prompting. "Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought
 Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.org/2023.acl-long.147.pdf)] [[>code](https://github.com/AGI-Edgerunners/Plan-and-Solve-Prompting)]
 - 🎓 Note-Taking. "Learning to Reason and Memorize with Self-Notes." 2023-05-01. [[>paper](https://arxiv.org/abs/2305.00833)]
@@ -72,7 +72,7 @@ Text generation techniques, which can be combined with prompting patterns and st
 - 🎓 External guides that constrain generation of reasoning improve accuracy by up to 35% on selected tasks. "Certified Reasoning with Language Models." 2023-06-06. [[>paper]](https://arxiv.org/abs/2306.04031)
 - 🎓 👩‍💻 Highly effective beam search for generating complex, multi-step reasoning episodes. "Tree of Thoughts: Deliberate Problem Solving with Large Language Models." 2023-05-17. [[>paper]](https://arxiv.org/abs/2305.10601) [[>code](https://github.com/princeton-nlp/tree-of-thought-llm)]
   - 👩‍💻 A minimalistic implementation of Tree-of-Thoughts as plain prompt. [[>code](https://github.com/dave1010/tree-of-thought-prompting)]
-  - 👩‍💻 An experimental [LMQL][lmql] implementation of Tree-of-Thoughts. [[>code](https://github.com/amazon-science/auto-cot)]
+  - 👩‍💻 An experimental [LMQL][lmql-site] implementation of Tree-of-Thoughts. [[>code](https://github.com/amazon-science/auto-cot)]
 - 🎓 👩‍💻 LLM auto-generates diverse reasoning demonstration to-be-used in deliberative prompting. "Automatic Chain of Thought Prompting in Large Language Models." 2022-10-07. [[>paper]](https://arxiv.org/abs/2210.03493) [[>code](https://github.com/LachlanGray/lmql-tree-of-thoughts)]
 
 ## Self-Correction
@@ -90,7 +90,7 @@ Things that don't work, or we don't understand.
 - 🎓 LLMs may systematically fabricate erroneous CoT rationales for wrong answers, NYU/Anthropic team finds. "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting." 2023-05-07. [[>paper](https://arxiv.org/abs/2305.04388)] 
 
 
-## Datasets for Deliberative Prompting
+## Datasets
 
 Datasets containing examples of deliberative prompting, potentially useful for training models / assessing their deliberation skills.
 
@@ -98,15 +98,15 @@ Datasets containing examples of deliberative prompting, potentially useful for t
   - 🎓 _ORCA_ - Microsoft's original paper. "Orca: Progressive Learning from Complex Explanation Traces of GPT-4." 2023-06-05. [[>paper](https://arxiv.org/abs/2306.02707)] 
   - 👩‍💻 _OpenOrca_ - Open source replication of ORCA datasets. [[>dataset](https://huggingface.co/datasets/Open-Orca/OpenOrca)]  
   - 👩‍💻 _Dolphin_ - Open source replication of ORCA datasets. [[>dataset](https://huggingface.co/datasets/ehartford/dolphin)]  
-- _OASST1_ - contains more than 200 instructions to generate pros and cons (acc. to nomic.ai's [map](https://huggingface.co/spaces/nomic-ai/OpenAssistant_oasst1)) [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)] 
+- _OASST1_ - contains more than 200 instructions to generate pros and cons (acc. to [nomic.ai's map](https://huggingface.co/spaces/nomic-ai/OpenAssistant_oasst1)) [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)] 
 
 
 ## Tools and Frameworks 
 
 Tools and Frameworks to implement deliberative prompting.
 
-- 👩‍💻 _LMQL_ - a programming language for language model interaction. [[>site][lmql]]
-  - 👩‍💻 Interactive LMQL Playground [[>site](https://lmql.ai/playground)]
+- 👩‍💻 _LMQL_ - a programming language for language model interaction. [[>site][lmql-site]]
+  - 👩‍💻 Interactive LMQL Playground [[>site][lmql-playground]]
   - 🎓 "Prompting Is Programming: A Query Language for Large Language Models." 2022-12-12. [[>paper](https://arxiv.org/abs/2212.06094)] 
 - 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)]
 - 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)]
@@ -117,5 +117,5 @@ Tools and Frameworks to implement deliberative prompting.
 - 📚 _Prompt Engineering Guide_ set up by [DAIR](https://dair.ai). [[>site](https://www.promptingguide.ai/)]
 
 
-
-[lmql]: https://lmql.ai/
+[lmql-site]: https://lmql.ai/
+[lmql-playground]: https://lmql.ai/playground
