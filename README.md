@@ -2,7 +2,7 @@
 
 **>>> 🚧 UNDER CONSTRUCTION 🚧 <<<**
 
-**How to ask LLMs to produce reliable reasoning and make reason-responsive decisions.**
+**How to ask Large Language Models (LLMs) to produce reliable reasoning and make reason-responsive decisions.**
 
 > **deliberation**, n.
 >
