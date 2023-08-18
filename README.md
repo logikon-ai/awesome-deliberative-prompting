@@ -1,8 +1,8 @@
-# Awesome Deliberative Prompting
+# Awesome Deliberative Prompting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **>>> 🚧 UNDER CONSTRUCTION 🚧 <<<**
 
-**Awesome deliberative prompting: How to ask LLMs to produce reliable reasoning and make reason-responsive decisions.**
+**How to ask LLMs to produce reliable reasoning and make reason-responsive decisions.**
 
 > **deliberation**, n.
 >
