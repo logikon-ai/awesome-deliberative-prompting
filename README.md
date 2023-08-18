@@ -98,7 +98,7 @@ Datasets containing examples of deliberative prompting, potentially useful for t
   - 🎓 _ORCA_ - Microsoft's original paper. "Orca: Progressive Learning from Complex Explanation Traces of GPT-4." 2023-06-05. [[>paper](https://arxiv.org/abs/2306.02707)] 
   - 👩‍💻 _OpenOrca_ - Open source replication of ORCA datasets. [[>dataset](https://huggingface.co/datasets/Open-Orca/OpenOrca)]  
   - 👩‍💻 _Dolphin_ - Open source replication of ORCA datasets. [[>dataset](https://huggingface.co/datasets/ehartford/dolphin)]  
-- _OASST1_ - contains more than 200 instructions to generate pros and cons \(acc. to nomic.ai's [map](https://huggingface.co/spaces/nomic-ai/OpenAssistant_oasst1)\) [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)] 
+- _OASST1_ - contains more than 200 instructions to generate pros and cons. [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)] 
 
 
 ## Tools and Frameworks 
