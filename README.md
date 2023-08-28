@@ -26,7 +26,7 @@
 
 ## Success Stories
 
-Striking evidence for effectiveness of deliberative prompting.
+_Striking evidence for effectiveness of deliberative prompting._
 
 - 🎓 The original "chain of though" (CoT) paper, first to give clear evidence that deliberative prompting works. "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models." 2022-01-28. [[>paper](https://arxiv.org/abs/2201.11903)]
 - 🎓 Deliberative prompting improves ability of Google's LLMs to solve unseen difficult problems, and instruction-finetuned (Flan-) models are much better at it.
@@ -39,10 +39,12 @@ Evaluating Foundation Models." 2023-04-13. [[>paper](https://arxiv.org/abs/2304.
 
 ## Prompting Patterns and Strategies 
 
-Prompting strategies and patterns to make LLMs deliberate.
+_Prompting strategies and patterns to make LLMs deliberate._
 
 
 ### Beyond "Let's think step by step" 
+
+_Instructing LLMs to reason (in a specific way)._
 
 - Weighing Pros and Cons: This universal deliberation paradigm can be implemented with LLMs.
   - 👩‍💻 A _{{guidance}}_ program that does: 1. Identify Options → 2. Generate Pros and Cons → 3. Weigh Reasons → 4. Decide. [[>code](https://github.com/guidance-ai/guidance/blob/main/README.md#role-based-chat-model-example-notebook)]
@@ -55,7 +57,7 @@ Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.
 
 ### Multi-Agent Deliberation
 
-Let one (or many) LLMs simulate a free controversy.
+_Let one (or many) LLMs simulate a free controversy._
 
 - 🎓 Leverage wisdom of the crowd effects through debate simulation. "Improving Factuality and Reasoning in Language Models through Multiagent Debate." 2023-05-23. [[>paper](https://arxiv.org/abs/2305.14325)] 
 - 🎓 👩‍💻 Emulate Socratic dialogue to collaboratively solve problems with multiple AI agents. "The Socratic Method for Self-Discovery in Large Language Models." 2023-05-05. [[>blog]https://princeton-nlp.github.io/SocraticAI/] [[>code](https://github.com/RunzheYang/SocraticAI)]
@@ -63,7 +65,7 @@ Let one (or many) LLMs simulate a free controversy.
 
 ### Reflection and Meta-Cognition
 
-Higher-order reasoning strategies that may improve first-order deliberation.
+_Higher-order reasoning strategies that may improve first-order deliberation._
 
 - 🎓 👩‍💻 Clarify→Judge→Evaluate→Confirm→Qualify Paradigm. "Metacognitive Prompting Improves Understanding in Large Language Models." 2023-08-10. [[>paper](https://arxiv.org/abs/2308.05342)] [[>code](https://github.com/EternityYW/Metacognitive-Prompting)]
 - 🎓 👩‍💻 Find-then-simulate-an-expert-for-this-problem Strategy. "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm." 2021-02-15. [[>paper](https://arxiv.org/abs/2102.07350)] [[>lmql][lmql-playground]] 
@@ -71,7 +73,7 @@ Higher-order reasoning strategies that may improve first-order deliberation.
 
 ## Text Generation Techniques 
 
-Text generation techniques, which can be combined with prompting patterns and strategies.
+_Text generation techniques, which can be combined with prompting patterns and strategies._
 
 - 🎓 Better problem-solving and deliberation through few-shot trial-and-error (in-context RL). "Reflexion: Language Agents with Verbal Reinforcement Learning" [[>paper]](https://arxiv.org/abs/2303.11366)
 - 🎓 External guides that constrain generation of reasoning improve accuracy by up to 35% on selected tasks. "Certified Reasoning with Language Models." 2023-06-06. [[>paper]](https://arxiv.org/abs/2306.04031)
@@ -83,14 +85,14 @@ Text generation techniques, which can be combined with prompting patterns and st
 
 ## Self-Correction
 
-Let LLMs self-correct their deliberation.
+_Let LLMs self-correct their deliberation._
 
 - 🎓 Excellent review about self-correcting LLMs, with application to unfaithful reasoning. "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies." 2023-08-06. [[>paper]](https://arxiv.org/abs/2308.03188) 
 
 
 ## Limitations, Failures, Puzzles
 
-Things that don't work, or are poorly understood.
+_Things that don't work, or are poorly understood._
 
 - 🎓 LLMs judge and decide in function of available arguments (reason-responsiveness), but are more strongly influenced by fallacious and deceptive reasons as compared to sound ones. "How susceptible are LLMs to Logical Fallacies?" 2023-08-18. [[>paper](https://arxiv.org/abs/2308.09853)]
 - 🎓 Incorrect reasoning improves answer accuracy (nearly) as much as correct one. "Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in Language Model Prompting." 2023-07-20. [[>paper](https://arxiv.org/abs/2307.10573)]
@@ -99,7 +101,7 @@ Things that don't work, or are poorly understood.
 
 ## Datasets
 
-Datasets containing examples of deliberative prompting, potentially useful for training models / assessing their deliberation skills.
+_Datasets containing examples of deliberative prompting, potentially useful for training models / assessing their deliberation skills._
 
 - Instruction-following dataset augmented with "reasoning traces" generated by LLMs.
   - 🎓 _ORCA_ - Microsoft's original paper. "Orca: Progressive Learning from Complex Explanation Traces of GPT-4." 2023-06-05. [[>paper](https://arxiv.org/abs/2306.02707)] 
@@ -111,7 +113,7 @@ Datasets containing examples of deliberative prompting, potentially useful for t
 
 ## Tools and Frameworks 
 
-Tools and Frameworks to implement deliberative prompting.
+_Tools and Frameworks to implement deliberative prompting._
 
 - 👩‍💻 _LMQL_ - a programming language for language model interaction. [[>site][lmql-site]]
   - 👩‍💻 Interactive LMQL Playground [[>site][lmql-playground]]
@@ -121,6 +123,8 @@ Tools and Frameworks to implement deliberative prompting.
 
 
 ## Other Resources
+
+_More awesome and useful material._
 
 - 📚 _Survey of Autonomous LLM Agents_ (continuously updated). [[>site](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 - 👩‍💻 _LLM Dashboard_ - explore task-specific reasoning performance of open LLMs [[>app](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)]
