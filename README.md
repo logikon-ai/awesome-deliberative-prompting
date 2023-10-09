@@ -88,6 +88,8 @@ _Text generation techniques, which can be combined with prompting patterns and s
 
 _Let LLMs self-correct their deliberation._
 
+- 🎓 LogiCoT: Self-check and revision after each CoT step improves performance (for selected tasks and models). "Enhancing Zero-Shot Chain-of-Thought Reasoning in Large
+Language Models through Logic." 2023-09-23. [[>paper]](https://arxiv.org/abs/2309.13339) 
 - 🎓 Excellent review about self-correcting LLMs, with application to unfaithful reasoning. "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies." 2023-08-06. [[>paper]](https://arxiv.org/abs/2308.03188) 
 
 
