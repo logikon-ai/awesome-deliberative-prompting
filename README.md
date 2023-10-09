@@ -62,7 +62,7 @@ Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.
 _Let one (or many) LLMs simulate a free controversy._
 
 - 🎓 Leverage wisdom of the crowd effects through debate simulation. "Improving Factuality and Reasoning in Language Models through Multiagent Debate." 2023-05-23. [[>paper](https://arxiv.org/abs/2305.14325)] 
-- 🎓 👩‍💻 Emulate Socratic dialogue to collaboratively solve problems with multiple AI agents. "The Socratic Method for Self-Discovery in Large Language Models." 2023-05-05. [[>blog]https://princeton-nlp.github.io/SocraticAI/] [[>code](https://github.com/RunzheYang/SocraticAI)]
+- 🎓 👩‍💻 Emulate Socratic dialogue to collaboratively solve problems with multiple AI agents. "The Socratic Method for Self-Discovery in Large Language Models." 2023-05-05. [[>blog](https://princeton-nlp.github.io/SocraticAI/)] [[>code](https://github.com/RunzheYang/SocraticAI)]
 
 
 ### Reflection and Meta-Cognition
