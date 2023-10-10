@@ -121,6 +121,8 @@ _Tools and Frameworks to implement deliberative prompting._
   - 👩‍💻 Interactive LMQL Playground [[>site][lmql-playground]]
   - 🎓 "Prompting Is Programming: A Query Language for Large Language Models." 2022-12-12. [[>paper](https://arxiv.org/abs/2212.06094)] 
 - 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)]
+- 👩‍💻 _outlines ~~_ - a language for guided text generation. [[>code](https://github.com/outlines-dev/outlines)]
+- 👩‍💻 _DSPy_ - a programmatic interface to LLMs. [[>code](https://github.com/stanfordnlp/dspy)]
 - 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)]
 
 
