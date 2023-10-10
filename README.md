@@ -1,7 +1,5 @@
 # Awesome Deliberative Prompting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**>>> 🚧 UNDER CONSTRUCTION 🚧 <<<**
-
 **How to ask Large Language Models (LLMs) to produce reliable reasoning and make reason-responsive decisions.**
 
 > **deliberation**, n.
