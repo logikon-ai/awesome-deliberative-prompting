@@ -59,6 +59,8 @@ Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.
 
 _Let one (or many) LLMs simulate a free controversy._
 
+
+- 🎓 👩‍💻 Delphi-process with diverse LLMs is veristically more valuable than simple debating. "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs." 2023-09-22. [[>paper](https://arxiv.org/abs/2309.13007)] [[>code](https://github.com/dinobby/ReConcile)]
 - 🎓 Leverage wisdom of the crowd effects through debate simulation. "Improving Factuality and Reasoning in Language Models through Multiagent Debate." 2023-05-23. [[>paper](https://arxiv.org/abs/2305.14325)] 
 - 🎓 👩‍💻 Emulate Socratic dialogue to collaboratively solve problems with multiple AI agents. "The Socratic Method for Self-Discovery in Large Language Models." 2023-05-05. [[>blog](https://princeton-nlp.github.io/SocraticAI/)] [[>code](https://github.com/RunzheYang/SocraticAI)]
 
