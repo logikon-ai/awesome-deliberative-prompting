@@ -16,6 +16,7 @@
   - [Reflection and Meta-Cognition](#reflection-and-meta-cognition)
 - [Text Generation Techniques](#text-generation-techniques)
 - [Self-Correction](#self-correction)
+- [Reasoning Analytics](#reasoning-analytics)
 - [Limitations, Failures, Puzzles](#limitations-failures-puzzles)
 - [Datasets](#datasets)
 - [Tools and Frameworks](#tools-and-frameworks)
@@ -91,8 +92,15 @@ _Let LLMs self-correct their deliberation._
 
 - 🎓 Instructing a model just to "review" its answer and "find problems" doesn't lead to effective self-correction. "Large Language Models Cannot Self-Correct Reasoning Yet." 2023-09-25. [[>paper](https://arxiv.org/abs/2310.01798)]
 - 🎓 LLMs can come up with, and address critical questions to improve their drafts. "Chain-of-Verification Reduces Hallucination in Large Language Models." 2023-09-25. [[>paper](https://arxiv.org/abs/2309.11495)]
-- 🎓 LogiCoT: Self-check and revision after each CoT step improves performance (for selected tasks and models). "Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic." 2023-09-23. [[>paper]](https://arxiv.org/abs/2309.13339) 
-- 🎓 Excellent review about self-correcting LLMs, with application to unfaithful reasoning. "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies." 2023-08-06. [[>paper]](https://arxiv.org/abs/2308.03188) 
+- 🎓 LogiCoT: Self-check and revision after each CoT step improves performance (for selected tasks and models). "Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic." 2023-09-23. [[>paper](https://arxiv.org/abs/2309.13339)]
+- 🎓 Excellent review about self-correcting LLMs, with application to unfaithful reasoning. "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies." 2023-08-06. [[>paper](https://arxiv.org/abs/2308.03188)]
+
+
+## Reasoning Analytics
+
+_Methods for analysing LLM deliberation and assessing reasoning quality._
+
+- 🎓 Minimalistic GPT-4 prompts for assessing reasoning quality. "SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation." 2023-09-29. [[>paper](https://arxiv.org/abs/2308.03188)]
 
 
 ## Limitations, Failures, Puzzles
