@@ -46,7 +46,7 @@ _Prompting strategies and patterns to make LLMs deliberate._
 
 _Instructing LLMs to reason (in a specific way)._
 
-
+- 🎓 Survey of CoT regarding task types, prompt designs, and reasoning quality metrics. "Towards Better Chain-of-Thought Prompting Strategies: A Survey." 2023-10-08. [[>paper](https://arxiv.org/abs/2310.04959)]
 - 🎓 Asking a LLM about a problem's broader context leads to better answers. "Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models." 2023-10-09. [[>paper](https://arxiv.org/abs/2310.06117)]
 - Weighing Pros and Cons: This universal deliberation paradigm can be implemented with LLMs.
   - 👩‍💻 A _{{guidance}}_ program that does: 1. Identify Options → 2. Generate Pros and Cons → 3. Weigh Reasons → 4. Decide. [[>code](https://github.com/guidance-ai/guidance/blob/main/README.md#role-based-chat-model-example-notebook)]
