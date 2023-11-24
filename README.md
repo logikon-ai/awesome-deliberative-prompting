@@ -73,7 +73,7 @@ _Let one (or many) LLMs simulate a free controversy._
 
 _Higher-order reasoning strategies that may improve first-order deliberation._
 
-- 🎓 👩‍💻 LLM-based AI Instructor devises effective first-order CoT-instructions. "Agent Instructs Large Language Models to be General Zero-Shot Reasoners." 2023-10-05. [[>paper](https://arxiv.org/abs/2310.03710)] [[>code](https://github.com/wang-research-lab/agentinstruct)]
+- 🎓 👩‍💻 LLM-based AI Instructor devises effective first-order CoT-instructions (open source models improve by up to 20%). "Agent Instructs Large Language Models to be General Zero-Shot Reasoners." 2023-10-05. [[>paper](https://arxiv.org/abs/2310.03710)] [[>code](https://github.com/wang-research-lab/agentinstruct)]
 - 🎓 👩‍💻 Clarify→Judge→Evaluate→Confirm→Qualify Paradigm. "Metacognitive Prompting Improves Understanding in Large Language Models." 2023-08-10. [[>paper](https://arxiv.org/abs/2308.05342)] [[>code](https://github.com/EternityYW/Metacognitive-Prompting)]
 - 🎓 👩‍💻 Find-then-simulate-an-expert-for-this-problem Strategy. "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm." 2021-02-15. [[>paper](https://arxiv.org/abs/2102.07350)] [[>lmql][lmql-playground]] 
 
@@ -88,7 +88,6 @@ _Text generation techniques, which can be combined with prompting patterns and s
   - 👩‍💻 A minimalistic implementation of Tree-of-Thoughts as plain prompt. [[>code](https://github.com/dave1010/tree-of-thought-prompting)]
   - 👩‍💻 An experimental [LMQL][lmql-site] implementation of Tree-of-Thoughts. [[>code](https://github.com/LachlanGray/lmql-tree-of-thoughts)]
 - 🎓 👩‍💻 LLM auto-generates diverse reasoning demonstration to-be-used in deliberative prompting. "Automatic Chain of Thought Prompting in Large Language Models." 2022-10-07. [[>paper](https://arxiv.org/abs/2210.03493)] [[>code](https://github.com/amazon-science/auto-cot)]
-- 🎓 Letting LLM agent generate CoT prompts increases zero-shot performance of open source models on reasoning tasks by up to 20%. "Agent Instructs Large Language Models to be General Zero-Shot Reasoners." 2023-10-05. [[>paper](https://arxiv.org/abs//2310.03710)]
 
 ## Self-Correction
 
@@ -105,7 +104,7 @@ _Let LLMs self-correct their deliberation._
 
 _Methods for analysing LLM deliberation and assessing reasoning quality._
 
-- 🎓 Minimalistic GPT-4 prompts for assessing reasoning quality. "SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation." 2023-09-29. [[>paper](https://arxiv.org/abs/2308.03188)]
+- 🎓 Minimalistic GPT-4 prompts for assessing reasoning quality. "SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation." 2023-09-29. [[>paper](https://arxiv.org/abs/2310.00074)]
 
 
 ## Limitations, Failures, Puzzles
@@ -115,7 +114,7 @@ _Things that don't work, or are poorly understood._
 - 🎓 LLMs may produce "encoded reasoning" that's unintelligable to humans, which may nullify any XAI gains from deliberative prompting. "Preventing Language Models From Hiding Their Reasoning." 2023-10-27. [[>paper](https://arxiv.org/abs/2310.18512)]
 - 🎓 LLMs judge and decide in function of available arguments (reason-responsiveness), but are more strongly influenced by fallacious and deceptive reasons as compared to sound ones. "How susceptible are LLMs to Logical Fallacies?" 2023-08-18. [[>paper](https://arxiv.org/abs/2308.09853)]
 - 🎓 Incorrect reasoning improves answer accuracy (nearly) as much as correct one. "Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in Language Model Prompting." 2023-07-20. [[>paper](https://arxiv.org/abs/2307.10573)]
-- 🎓 Zeroshot CoT reasoning in sensitive domains increases a LLM’s likelihood to produce harmful or undesirable output. "On Second Thought, Let’s Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning." 2023-06-23. [[>paper](https://arxiv.org/abs/2212.08061)]
+- 🎓 Zeroshot CoT reasoning in sensitive domains increases a LLM's likelihood to produce harmful or undesirable output. "On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning." 2023-06-23. [[>paper](https://arxiv.org/abs/2212.08061)]
 - 🎓 LLMs may systematically fabricate erroneous CoT rationales for wrong answers, NYU/Anthropic team finds. "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting." 2023-05-07. [[>paper](https://arxiv.org/abs/2305.04388)] 
 - 🎓 LLMs' practical deliberation is not robust, but easily let astray by re-wording scenarios. "Despite 'super-human' performance, current LLMs are unsuited for decisions about ethics and safety" 2022-12-13. [[>paper](https://arxiv.org/abs/2212.06295)] 
 
@@ -140,7 +139,7 @@ _Tools and Frameworks to implement deliberative prompting._
   - 👩‍💻 Interactive LMQL Playground [[>site][lmql-playground]]
   - 🎓 "Prompting Is Programming: A Query Language for Large Language Models." 2022-12-12. [[>paper](https://arxiv.org/abs/2212.06094)] 
 - 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)]
-- 👩‍💻 <i>outlines ~~</i> - a language for guided text generation. [[>code](https://github.com/outlines-dev/outlines)]
+- 👩‍💻 <i>outlines ~</i> - a language for guided text generation. [[>code](https://github.com/outlines-dev/outlines)]
 - 👩‍💻 _DSPy_ - a programmatic interface to LLMs. [[>code](https://github.com/stanfordnlp/dspy)]
 - 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)]
 
