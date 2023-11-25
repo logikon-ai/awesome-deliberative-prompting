@@ -129,6 +129,7 @@ _Datasets containing examples of deliberative prompting, potentially useful for 
   - 🎓 _ORCA_ - Microsoft's original paper. "Orca: Progressive Learning from Complex Explanation Traces of GPT-4." 2023-06-05. [[>paper](https://arxiv.org/abs/2306.02707)] 
   - 👩‍💻 _OpenOrca_ - Open source replication of ORCA datasets. [[>dataset](https://huggingface.co/datasets/Open-Orca/OpenOrca)]  
   - 👩‍💻 _Dolphin_ - Open source replication of ORCA datasets. [[>dataset](https://huggingface.co/datasets/ehartford/dolphin)]  
+  - 🎓 _ORCA 2_ - Improved Orca by Microsoft, e.g. with meta reasoning. "Orca 2: Teaching Small Language Models How to Reason." 2023-11-18. [[>paper](https://arxiv.org/abs/2311.11045)] 
 - 👩‍💻 _OASST1_ - contains more than 200 instructions to generate pros and cons \(acc. to nomic.ai's [map](https://huggingface.co/spaces/nomic-ai/OpenAssistant_oasst1)\). [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)]
 - 🎓 _LegalBench_ - a benchmark for legal reasoning in LLMs [[>paper](https://arxiv.org/abs/2308.11462)]
 
