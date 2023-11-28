@@ -74,6 +74,7 @@ _Let one (or many) LLMs simulate a free controversy._
 
 _Higher-order reasoning strategies that may improve first-order deliberation._
 
+- 🎓 👩‍💻 Reflecting on task allows LLM to autogenerate more effective instructions, demonstration, and reasoning traces. "Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models." 2023-10-11. [[>paper](https://arxiv.org/abs/2310.06692)] [[>code](https://github.com/Anni-Zou/Meta-CoT)] 
 - 🎓 👩‍💻 LLM-based AI Instructor devises effective first-order CoT-instructions (open source models improve by up to 20%). "Agent Instructs Large Language Models to be General Zero-Shot Reasoners." 2023-10-05. [[>paper](https://arxiv.org/abs/2310.03710)] [[>code](https://github.com/wang-research-lab/agentinstruct)]
 - 🎓 👩‍💻 Clarify→Judge→Evaluate→Confirm→Qualify Paradigm. "Metacognitive Prompting Improves Understanding in Large Language Models." 2023-08-10. [[>paper](https://arxiv.org/abs/2308.05342)] [[>code](https://github.com/EternityYW/Metacognitive-Prompting)]
 - 🎓 👩‍💻 Find-then-simulate-an-expert-for-this-problem Strategy. "Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm." 2021-02-15. [[>paper](https://arxiv.org/abs/2102.07350)] [[>lmql][lmql-playground]] 
