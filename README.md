@@ -36,6 +36,7 @@ Evaluating Foundation Models." 2023-04-13. [[>paper](https://arxiv.org/abs/2304.
 - 🎓 Deliberative prompting unlocks latent cognitive skills and is more effective for bigger models. "Challenging BIG-Bench tasks and whether chain-of-thought can solve them." 2022-10-17. [[>paper](https://arxiv.org/abs/2210.09261)]
 - 🎓 Experimentally introducing errors in CoT reasoning traces decreases decision accuracy, which provides indirect evidence for reason-responsiveness of LLMs. "Stress Testing Chain-of-Thought Prompting for Large Language Models." 2023-09-28. [[>paper](https://arxiv.org/abs/2309.16621)]
 - 🎓 Reasoning (about retrieval candidates) improves RAG. "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection." 2023-10-17. [[>paper](https://arxiv.org/abs/2310.11511)]
+- 🎓 Deliberative reading notes improve RAG. "Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models." 2023-11-15. [[>paper](https://arxiv.org/abs/2311.09210)]
 
 ## Prompting Patterns and Strategies 
 
