@@ -64,7 +64,7 @@ Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.
 
 _Let one (or many) LLMs simulate a free controversy._
 
-
+- 🎓 Collective critique and reflection reduce factual hallucinations and toxicity. "N-Critics: Self-Refinement of Large Language Models with Ensemble of Critics." 2023-10-28. [[>paper](https://arxiv.org/abs/2310.18679)]
 - 🎓 👩‍💻 Delphi-process with diverse LLMs is veristically more valuable than simple debating. "ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs." 2023-09-22. [[>paper](https://arxiv.org/abs/2309.13007)] [[>code](https://github.com/dinobby/ReConcile)]
 - 🎓 Multi-agent debate increases cognitive diversity increases performance. "Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate." 2023-05-30. [[>paper](https://arxiv.org/abs/2305.19118)]
 - 🎓 Leverage wisdom of the crowd effects through debate simulation. "Improving Factuality and Reasoning in Language Models through Multiagent Debate." 2023-05-23. [[>paper](https://arxiv.org/abs/2305.14325)] 
