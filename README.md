@@ -38,6 +38,7 @@ Evaluating Foundation Models." 2023-04-13. [[>paper](https://arxiv.org/abs/2304.
 - 🎓 Reasoning (about retrieval candidates) improves RAG. "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection." 2023-10-17. [[>paper](https://arxiv.org/abs/2310.11511)]
 - 🎓 Deliberative reading notes improve RAG. "Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models." 2023-11-15. [[>paper](https://arxiv.org/abs/2311.09210)]
 - 🎓 Good reasoning (CoT) causes good answers (i.e., LLMs are reason-responsive). "Causal Abstraction for Chain-of-Thought Reasoning in Arithmetic Word Problems." 2023-12-07. [[>paper](https://aclanthology.org/2023.blackboxnlp-1.12.pdf)]
+- 🎓 Logical interpretation of layer-wise processing of reasoning tasks yields further evidence for reason-responsiveness. "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Model." 2023-12-07. [[>paper](https://arxiv.org/abs/2310.14491)]
 
 
 
