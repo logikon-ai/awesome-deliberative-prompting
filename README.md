@@ -105,6 +105,7 @@ _Text generation techniques, which can be combined with prompting patterns and s
 
 _Let LLMs self-correct their deliberation._
 
+- 🎓 Conditional self-correction depending on whether critical questions have been addressed in reasoning trace. "The ART of LLM Refinement: Ask, Refine, and Trust." 2023-11-14. [[>paper](https://arxiv.org/abs/2311.07961)]
 - 🎓 Iteratively refining reasoning given diverse feedback increases accuaracy by up tp 10% (ChatGPT). "MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models." 2023-10-19. [[>paper](https://arxiv.org/abs/2310.12426)]
 - 🎓 Instructing a model just to "review" its answer and "find problems" doesn't lead to effective self-correction. "Large Language Models Cannot Self-Correct Reasoning Yet." 2023-09-25. [[>paper](https://arxiv.org/abs/2310.01798)]
 - 🎓 LLMs can come up with, and address critical questions to improve their drafts. "Chain-of-Verification Reduces Hallucination in Large Language Models." 2023-09-25. [[>paper](https://arxiv.org/abs/2309.11495)]
