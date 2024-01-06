@@ -170,6 +170,7 @@ _More awesome and useful material._
 - 📚 _Survey of Autonomous LLM Agents_ (continuously updated). [[>site](https://github.com/Paitesanshi/LLM-Agent-Survey)]
 - 👩‍💻 _LLM Dashboard_ - explore task-specific reasoning performance of open LLMs [[>app](https://huggingface.co/spaces/CoreyMorris/MMLU-by-task-Leaderboard)]
 - 📚 _Prompt Engineering Guide_ set up by [DAIR](https://dair.ai). [[>site](https://www.promptingguide.ai/)]
+- 📚 _ATLAS_ - principles and benchmark for systematic prompting [[>code](https://github.com/VILA-Lab/ATLAS)] 
 - 📚 _Deliberative Prompting Guide_ set up by [Logikon](https://logikon.ai). [[>site](https://logikon.ai/docs/delib_prompting)]
 
 
