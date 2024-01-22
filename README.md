@@ -122,6 +122,7 @@ _Let LLMs self-correct their deliberation._
 
 _Methods for analysing LLM deliberation and assessing reasoning quality._
 
+- 🎓 GPT-4 is 10x better at predicting whether math reasoning is correct than GPT-3.5. "Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs." 2023-12-28. [[>paper](https://arxiv.org/abs/2312.17080)]
 - 🎓 Minimalistic GPT-4 prompts for assessing reasoning quality. "SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation." 2023-09-29. [[>paper](https://arxiv.org/abs/2310.00074)]
 
 
