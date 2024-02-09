@@ -181,6 +181,7 @@ _More awesome and useful material._
 - 📚 _Prompt Engineering Guide_ set up by [DAIR](https://dair.ai). [[>site](https://www.promptingguide.ai/)]
 - 📚 _ATLAS_ - principles and benchmark for systematic prompting [[>code](https://github.com/VILA-Lab/ATLAS)] 
 - 📚 _Deliberative Prompting Guide_ set up by [Logikon](https://logikon.ai). [[>site](https://logikon.ai/docs/delib_prompting)]
+- 📚 _Arguing with Arguments_ – recent and wonderful piece by H. Siegel discussing what it actually means to evaluate an argument. [[>paper]](https://informallogic.ca/index.php/informal_logic/article/download/7667/5647)
 
 
 [lmql-site]: https://lmql.ai/
