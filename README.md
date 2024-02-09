@@ -98,6 +98,7 @@ _Higher-order reasoning strategies that may improve first-order deliberation._
 
 _Text generation techniques, which can be combined with prompting patterns and strategies._
 
+- 🎓 Pipeline for self-generating & choosing effective CoT few-shot demonstrations. "Universal Self-adaptive Prompting". 2023-05-24. [[>paper]](https://arxiv.org/abs/2305.14926)
 - 🎓 More reasoning (= longer reasoning traces) is better. "The Impact of Reasoning Step Length on Large Language Models". 2024-01-10. [[>paper]](https://arxiv.org/abs/2401.04925)
 - 🎓 Having (accordingly labeled) correct _and_ erroneous (few-shot) reasoning demonstrations improves CoT. "Contrastive Chain-of-Thought Prompting." 2023-11-17. [[>paper]](https://arxiv.org/abs/2311.09277)
 - 🎓 Better problem-solving and deliberation through few-shot trial-and-error (in-context RL). "Reflexion: Language Agents with Verbal Reinforcement Learning." 2023-03-20. [[>paper]](https://arxiv.org/abs/2303.11366)
