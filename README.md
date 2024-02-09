@@ -160,7 +160,7 @@ _Datasets containing examples of deliberative prompting, potentially useful for 
 - 🎓👩‍💻 _CoT Collection_ - 1.84 million reasoning traces for 1,060 tasks. "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning." [[>paper](https://arxiv.org/abs/2305.14045)] [[>code](https://github.com/kaistAI/CoT-Collection)]
 - 👩‍💻 _OASST1_ - contains more than 200 instructions to generate pros and cons \(acc. to nomic.ai's [map](https://huggingface.co/spaces/nomic-ai/OpenAssistant_oasst1)\). [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)]
 - 🎓 _LegalBench_ - a benchmark for legal reasoning in LLMs [[>paper](https://arxiv.org/abs/2308.11462)]
-- 🎓👩‍💻 _ThoughtSource - an open resource for data and tools related to chain-of-thought reasoning in large language models. [[>paper](https://www.nature.com/articles/s41597-023-02433-3.pdf)] [[>code](https://github.com/OpenBioLink/ThoughtSource)]
+- 🎓👩‍💻 _ThoughtSource_ - an open resource for data and tools related to chain-of-thought reasoning in large language models. [[>paper](https://www.nature.com/articles/s41597-023-02433-3.pdf)] [[>code](https://github.com/OpenBioLink/ThoughtSource)]
 
 
 ## Tools and Frameworks 
