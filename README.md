@@ -167,6 +167,7 @@ _Tools and Frameworks to implement deliberative prompting._
 - 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)]
 - 👩‍💻 <i>outlines ~</i> - a language for guided text generation. [[>code](https://github.com/outlines-dev/outlines)]
 - 👩‍💻 _DSPy_ - a programmatic interface to LLMs. [[>code](https://github.com/stanfordnlp/dspy)]
+- 👩‍💻 _llm-reasoners_ – A library for advanced large language model reasoning. [[>code]](https://github.com/Ber666/llm-reasoners)
 - 👩‍💻 _ThinkGPT_ - framework and building blocks for chain-of-thought workflows. [[>code](https://github.com/jina-ai/thinkgpt#readme)]
 - 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)]
 - 👩‍💻 _PromptBench_ -a  unified library for evaluating LLMS, inter alia effectiveness of CoT prompts. [[>code](https://github.com/microsoft/promptbench)]
