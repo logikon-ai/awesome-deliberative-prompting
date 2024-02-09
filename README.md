@@ -98,12 +98,12 @@ _Higher-order reasoning strategies that may improve first-order deliberation._
 
 _Text generation techniques, which can be combined with prompting patterns and strategies._
 
-- 🎓 Pipeline for self-generating & choosing effective CoT few-shot demonstrations. "Universal Self-adaptive Prompting". 2023-05-24. [[>paper]](https://arxiv.org/abs/2305.14926)
-- 🎓 More reasoning (= longer reasoning traces) is better. "The Impact of Reasoning Step Length on Large Language Models". 2024-01-10. [[>paper]](https://arxiv.org/abs/2401.04925)
-- 🎓 Having (accordingly labeled) correct _and_ erroneous (few-shot) reasoning demonstrations improves CoT. "Contrastive Chain-of-Thought Prompting." 2023-11-17. [[>paper]](https://arxiv.org/abs/2311.09277)
-- 🎓 Better problem-solving and deliberation through few-shot trial-and-error (in-context RL). "Reflexion: Language Agents with Verbal Reinforcement Learning." 2023-03-20. [[>paper]](https://arxiv.org/abs/2303.11366)
-- 🎓 External guides that constrain generation of reasoning improve accuracy by up to 35% on selected tasks. "Certified Reasoning with Language Models." 2023-06-06. [[>paper]](https://arxiv.org/abs/2306.04031)
-- 🎓 👩‍💻 Highly effective beam search for generating complex, multi-step reasoning episodes. "Tree of Thoughts: Deliberate Problem Solving with Large Language Models." 2023-05-17. [[>paper]](https://arxiv.org/abs/2305.10601) [[>code](https://github.com/princeton-nlp/tree-of-thought-llm)]
+- 🎓 Pipeline for self-generating & choosing effective CoT few-shot demonstrations. "Universal Self-adaptive Prompting". 2023-05-24. [[>paper](https://arxiv.org/abs/2305.14926)]
+- 🎓 More reasoning (= longer reasoning traces) is better. "The Impact of Reasoning Step Length on Large Language Models". 2024-01-10. [[>paper](https://arxiv.org/abs/2401.04925)]
+- 🎓 Having (accordingly labeled) correct _and_ erroneous (few-shot) reasoning demonstrations improves CoT. "Contrastive Chain-of-Thought Prompting." 2023-11-17. [[>paper](https://arxiv.org/abs/2311.09277)]
+- 🎓 Better problem-solving and deliberation through few-shot trial-and-error (in-context RL). "Reflexion: Language Agents with Verbal Reinforcement Learning." 2023-03-20. [[>paper](https://arxiv.org/abs/2303.11366)]
+- 🎓 External guides that constrain generation of reasoning improve accuracy by up to 35% on selected tasks. "Certified Reasoning with Language Models." 2023-06-06. [[>paper](https://arxiv.org/abs/2306.04031)]
+- 🎓 👩‍💻 Highly effective beam search for generating complex, multi-step reasoning episodes. "Tree of Thoughts: Deliberate Problem Solving with Large Language Models." 2023-05-17. [[>paper](https://arxiv.org/abs/2305.10601)] [[>code](https://github.com/princeton-nlp/tree-of-thought-llm)]
   - 👩‍💻 A minimalistic implementation of Tree-of-Thoughts as plain prompt. [[>code](https://github.com/dave1010/tree-of-thought-prompting)]
   - 👩‍💻 An experimental [LMQL][lmql-site] implementation of Tree-of-Thoughts. [[>code](https://github.com/LachlanGray/lmql-tree-of-thoughts)]
 - 🎓 👩‍💻 LLM auto-generates diverse reasoning demonstration to-be-used in deliberative prompting. "Automatic Chain of Thought Prompting in Large Language Models." 2022-10-07. [[>paper](https://arxiv.org/abs/2210.03493)] [[>code](https://github.com/amazon-science/auto-cot)]
@@ -164,13 +164,13 @@ _Tools and Frameworks to implement deliberative prompting._
 - 👩‍💻 _LMQL_ - a programming language for language model interaction. [[>site][lmql-site]] ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql)
   - 👩‍💻 Interactive LMQL Playground [[>site][lmql-playground]]
   - 🎓 "Prompting Is Programming: A Query Language for Large Language Models." 2022-12-12. [[>paper](https://arxiv.org/abs/2212.06094)] 
-- 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)]
-- 👩‍💻 <i>outlines ~</i> - a language for guided text generation. [[>code](https://github.com/outlines-dev/outlines)]
-- 👩‍💻 _DSPy_ - a programmatic interface to LLMs. [[>code](https://github.com/stanfordnlp/dspy)]
-- 👩‍💻 _llm-reasoners_ – A library for advanced large language model reasoning. [[>code]](https://github.com/Ber666/llm-reasoners)
-- 👩‍💻 _ThinkGPT_ - framework and building blocks for chain-of-thought workflows. [[>code](https://github.com/jina-ai/thinkgpt#readme)]
-- 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)]
-- 👩‍💻 _PromptBench_ -a  unified library for evaluating LLMS, inter alia effectiveness of CoT prompts. [[>code](https://github.com/microsoft/promptbench)]
+- 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)] ![GitHub Repo stars](https://img.shields.io/github/stars/guidance-ai/guidance)
+- 👩‍💻 <i>outlines ~</i> - a language for guided text generation. [[>code](https://github.com/outlines-dev/outlines)] ![GitHub Repo stars](https://img.shields.io/github/stars/outlines-dev/outlines)
+- 👩‍💻 _DSPy_ - a programmatic interface to LLMs. [[>code](https://github.com/stanfordnlp/dspy)] ![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dspy)
+- 👩‍💻 _llm-reasoners_ – A library for advanced large language model reasoning. [[>code](https://github.com/Ber666/llm-reasoners)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ber666/llm-reasoners)
+- 👩‍💻 _ThinkGPT_ - framework and building blocks for chain-of-thought workflows. [[>code](https://github.com/jina-ai/thinkgpt#readme)] ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/thinkgpt)
+- 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)] ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain)
+- 👩‍💻 _PromptBench_ -a  unified library for evaluating LLMS, inter alia effectiveness of CoT prompts. [[>code](https://github.com/microsoft/promptbench)] ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/promptbench)
 
 
 ## Other Resources
@@ -182,7 +182,7 @@ _More awesome and useful material._
 - 📚 _Prompt Engineering Guide_ set up by [DAIR](https://dair.ai). [[>site](https://www.promptingguide.ai/)]
 - 📚 _ATLAS_ - principles and benchmark for systematic prompting [[>code](https://github.com/VILA-Lab/ATLAS)] 
 - 📚 _Deliberative Prompting Guide_ set up by [Logikon](https://logikon.ai). [[>site](https://logikon.ai/docs/delib_prompting)]
-- 📚 _Arguing with Arguments_ – recent and wonderful piece by H. Siegel discussing what it actually means to evaluate an argument. [[>paper]](https://informallogic.ca/index.php/informal_logic/article/download/7667/5647)
+- 📚 _Arguing with Arguments_ – recent and wonderful piece by H. Siegel discussing what it actually means to evaluate an argument. [[>paper](https://informallogic.ca/index.php/informal_logic/article/download/7667/5647)]
 
 
 [lmql-site]: https://lmql.ai/
