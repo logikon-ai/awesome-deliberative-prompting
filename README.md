@@ -89,7 +89,6 @@ _Higher-order reasoning strategies that may improve first-order deliberation._
 
 
 - 🎓 👩‍💻 Processing task in function of self-assessed difficulty boosts CoT effectiveness. "Divide and Conquer for Large Language Models Reasoning." 2024-01-10. [[>paper](https://arxiv.org/abs/2401.05190)] [[>code](https://github.com/AiMijie/Divide-and-Conquer)] 
-- 🎓 Benchmark: GPT-4 has five times stronger meta-reasoning skill than GPT-3.5. "Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs." 2023-12-28. [[>paper](https://arxiv.org/abs/2312.17080)]
 - 🎓 👩‍💻 Reflecting on task allows LLM to autogenerate more effective instructions, demonstration, and reasoning traces. "Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models." 2023-10-11. [[>paper](https://arxiv.org/abs/2310.06692)] [[>code](https://github.com/Anni-Zou/Meta-CoT)] 
 - 🎓 👩‍💻 LLM-based AI Instructor devises effective first-order CoT-instructions (open source models improve by up to 20%). "Agent Instructs Large Language Models to be General Zero-Shot Reasoners." 2023-10-05. [[>paper](https://arxiv.org/abs/2310.03710)] [[>code](https://github.com/wang-research-lab/agentinstruct)]
 - 🎓 👩‍💻 Clarify→Judge→Evaluate→Confirm→Qualify Paradigm. "Metacognitive Prompting Improves Understanding in Large Language Models." 2023-08-10. [[>paper](https://arxiv.org/abs/2308.05342)] [[>code](https://github.com/EternityYW/Metacognitive-Prompting)]
@@ -129,14 +128,18 @@ _Let LLMs self-correct their deliberation._
 
 _Methods for analysing LLM deliberation and assessing reasoning quality._
 
-- 🎓 GPT-4 is 10x better at predicting whether math reasoning is correct than GPT-3.5. "Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs." 2023-12-28. [[>paper](https://arxiv.org/abs/2312.17080)]
-- 🎓 Minimalistic GPT-4 prompts for assessing reasoning quality. "SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation." 2023-09-29. [[>paper](https://arxiv.org/abs/2310.00074)]
+- 🎓👩‍💻 Test dataset for CoT evaluators. "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains." 2023-11-23. [[>paper](https://arxiv.org/abs/2304.10703)] [[>dataset]([https://github.com/archiki/ReCEval](https://huggingface.co/datasets/google/reveal))]
+- 🎓👩‍💻 Framework for evaluating reasoning chains by viewing them as informal proofs that derive the final answer. "ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness." 2023-11-23. [[>paper](https://arxiv.org/abs/2304.10703)] [[>code](https://github.com/archiki/ReCEval)]
+- 🎓 GPT-4 is 5x better at predicting whether math reasoning is correct than GPT-3.5. "Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs." 2023-12-28. [[>paper](https://arxiv.org/abs/2312.17080)]
+- 🎓 Minimalistic GPT-4 prompts for assessing reasoning quality. "SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation." 2023-09-29. [[>paper](https://arxiv.org/abs/2310.00074)] [[>code](https://github.com/facebookresearch/ParlAI/tree/main/projects/roscoe#meta-evaluation)]
+- 🎓👩‍💻 Automatic, semantic-similarity based metrics for assessing CoT traces (redundancy, faithfulness, consistency, etc.). "ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning." 2023-09-12. [[>paper](https://arxiv.org/abs/2212.07919)]
 
 
 ## Limitations, Failures, Puzzles
 
 _Things that don't work, or are poorly understood._
 
+- 🎓 Bad reasoning may lead to correct conclusions, hence better methods for CoT evaluation are needed. "SCORE: A framework for Self-Contradictory Reasoning Evaluation." 2023-11-16. [[>paper](https://arxiv.org/abs/2311.09603)]
 - 🎓 LLMs may produce "encoded reasoning" that's unintelligable to humans, which may nullify any XAI gains from deliberative prompting. "Preventing Language Models From Hiding Their Reasoning." 2023-10-27. [[>paper](https://arxiv.org/abs/2310.18512)]
 - 🎓 LLMs judge and decide in function of available arguments (reason-responsiveness), but are more strongly influenced by fallacious and deceptive reasons as compared to sound ones. "How susceptible are LLMs to Logical Fallacies?" 2023-08-18. [[>paper](https://arxiv.org/abs/2308.09853)]
 - 🎓 Incorrect reasoning improves answer accuracy (nearly) as much as correct one. "Invalid Logic, Equivalent Gains: The Bizarreness of Reasoning in Language Model Prompting." 2023-07-20. [[>paper](https://arxiv.org/abs/2307.10573)]
@@ -157,6 +160,7 @@ _Datasets containing examples of deliberative prompting, potentially useful for 
 - 🎓👩‍💻 _CoT Collection_ - 1.84 million reasoning traces for 1,060 tasks. "The CoT Collection: Improving Zero-shot and Few-shot Learning of Language Models via Chain-of-Thought Fine-Tuning." [[>paper](https://arxiv.org/abs/2305.14045)] [[>code](https://github.com/kaistAI/CoT-Collection)]
 - 👩‍💻 _OASST1_ - contains more than 200 instructions to generate pros and cons \(acc. to nomic.ai's [map](https://huggingface.co/spaces/nomic-ai/OpenAssistant_oasst1)\). [[>dataset](https://huggingface.co/datasets/OpenAssistant/oasst1)]
 - 🎓 _LegalBench_ - a benchmark for legal reasoning in LLMs [[>paper](https://arxiv.org/abs/2308.11462)]
+- 🎓👩‍💻 _ThoughtSource - an open resource for data and tools related to chain-of-thought reasoning in large language models. [[>paper](https://www.nature.com/articles/s41597-023-02433-3.pdf)] [[>code](https://github.com/OpenBioLink/ThoughtSource)]
 
 
 ## Tools and Frameworks 
