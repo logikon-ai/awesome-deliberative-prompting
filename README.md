@@ -172,7 +172,8 @@ _Tools and Frameworks to implement deliberative prompting._
 - 👩‍💻 _llm-reasoners_ – A library for advanced large language model reasoning. [[>code](https://github.com/Ber666/llm-reasoners)] ![GitHub Repo stars](https://img.shields.io/github/stars/Ber666/llm-reasoners)
 - 👩‍💻 _ThinkGPT_ - framework and building blocks for chain-of-thought workflows. [[>code](https://github.com/jina-ai/thinkgpt#readme)] ![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/thinkgpt)
 - 👩‍💻 _LangChain_ - a python library for building LLM chains and agents. [[>code](https://github.com/langchain-ai/langchain)] ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain)
-- 👩‍💻 _PromptBench_ -a  unified library for evaluating LLMS, inter alia effectiveness of CoT prompts. [[>code](https://github.com/microsoft/promptbench)] ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/promptbench)
+- 👩‍💻 _PromptBench_ -a unified library for evaluating LLMS, inter alia effectiveness of CoT prompts. [[>code](https://github.com/microsoft/promptbench)] ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/promptbench)
+- 👩‍💻 _SymbolicAI_ - a library for compositional differentiable programming with LLMs. [[>code](https://github.com/ExtensityAI/symbolicai)] ![GitHub Repo stars](https://img.shields.io/github/stars/ExtensityAI/symbolicai)
 
 
 ## Other Resources
