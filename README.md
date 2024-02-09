@@ -161,7 +161,7 @@ _Datasets containing examples of deliberative prompting, potentially useful for 
 
 _Tools and Frameworks to implement deliberative prompting._
 
-- 👩‍💻 _LMQL_ - a programming language for language model interaction. [[>site][lmql-site]] ![GitHub Repo stars](https://img.shields.io/github/stars/:eth-sri/:lmql)
+- 👩‍💻 _LMQL_ - a programming language for language model interaction. [[>site][lmql-site]] ![GitHub Repo stars](https://img.shields.io/github/stars/eth-sri/lmql)
   - 👩‍💻 Interactive LMQL Playground [[>site][lmql-playground]]
   - 🎓 "Prompting Is Programming: A Query Language for Large Language Models." 2022-12-12. [[>paper](https://arxiv.org/abs/2212.06094)] 
 - 👩‍💻 _{{guidance}}_ - a language for controlling large language models. [[>code](https://github.com/guidance-ai/guidance)]
