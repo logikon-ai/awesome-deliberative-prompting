@@ -85,6 +85,8 @@ _Let one (or many) LLMs simulate a free controversy._
 
 _Higher-order reasoning strategies that may improve first-order deliberation._
 
+
+- 🎓 👩‍💻 Processing task in function of self-assessed difficulty boosts CoT effectiveness. "Divide and Conquer for Large Language Models Reasoning." 2024-01-10. [[>paper](https://arxiv.org/abs/2401.05190)] [[>code](https://github.com/AiMijie/Divide-and-Conquer)] 
 - 🎓 Benchmark: GPT-4 has tenfold stronger meta-reasoning skill than GPT-3.5. "Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs." 2023-12-28. [[>paper](https://arxiv.org/abs/2312.17080)]
 - 🎓 👩‍💻 Reflecting on task allows LLM to autogenerate more effective instructions, demonstration, and reasoning traces. "Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models." 2023-10-11. [[>paper](https://arxiv.org/abs/2310.06692)] [[>code](https://github.com/Anni-Zou/Meta-CoT)] 
 - 🎓 👩‍💻 LLM-based AI Instructor devises effective first-order CoT-instructions (open source models improve by up to 20%). "Agent Instructs Large Language Models to be General Zero-Shot Reasoners." 2023-10-05. [[>paper](https://arxiv.org/abs/2310.03710)] [[>code](https://github.com/wang-research-lab/agentinstruct)]
