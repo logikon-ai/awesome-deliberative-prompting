@@ -53,6 +53,8 @@ _Prompting strategies and patterns to make LLMs deliberate._
 
 _Instructing LLMs to reason (in a specific way)._
 
+
+- 🎓 CoA: Produce an abstract reasoning trace first, and fill in the details (using tools) later. "Efficient Tool Use with Chain-of-Abstraction Reasoning." 2024-01-30. [[>paper](https://arxiv.org/abs/2401.17464)]
 - 🎓 Reason over and over again until verification test is passed. "Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts." 2023-10-23. [[>paper](https://arxiv.org/abs/2310.14628)]
 - 🎓 Generate multiple diverse deliberations, then synthesize those in a single reasoning path. "Ask One More Time: Self-Agreement Improves Reasoning of Language Models in (Almost) All Scenarios." 2023-11-14. [[>paper](https://arxiv.org/abs/2311.08154)]
 - 🎓 Survey of CoT regarding task types, prompt designs, and reasoning quality metrics. "Towards Better Chain-of-Thought Prompting Strategies: A Survey." 2023-10-08. [[>paper](https://arxiv.org/abs/2310.04959)]
