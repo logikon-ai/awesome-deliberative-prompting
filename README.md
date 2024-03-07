@@ -115,6 +115,7 @@ _Text generation techniques, which can be combined with prompting patterns and s
 _Let LLMs self-correct their deliberation._
 
 
+- 🎓 Consistency between multiple CoT-traces is an indicator of reasoning reliability, which can be exploited for self-check / aggregation. "Can We Verify Step by Step for Incorrect Answer Detection?" 2024-02-16. [[>paper](https://arxiv.org/abs/2402.10528)]
 - 🎓 Turn LLMs into intrinsic self-checkers by appending self-correction steps to standard CoT traces for finetuning. "Small Language Model Can Self-correct." 2024-01-14. [[>paper](https://arxiv.org/abs/2401.07301)]
 - 🎓 Reinforced Self-Training improves retrieval-augmented multi-hop Q/A. "ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent." 2023-12-15. [[>paper](https://arxiv.org/abs/2312.10003)]
 - 🎓 Conditional self-correction depending on whether critical questions have been addressed in reasoning trace. "The ART of LLM Refinement: Ask, Refine, and Trust." 2023-11-14. [[>paper](https://arxiv.org/abs/2311.07961)]
