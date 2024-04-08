@@ -100,6 +100,8 @@ _Higher-order reasoning strategies that may improve first-order deliberation._
 
 _Text generation techniques, which can be combined with prompting patterns and strategies._
 
+- 🔥🎓 Iterative revision of reasoning in light of previous CoT traces improves accuracy by 10-20%. "RAT: Retrieval Augmented Thoughts Elicit
+Context-Aware Reasoning in Long-Horizon Generation". 2024-03-08. [[>paper](https://arxiv.org/abs/2403.05313)]
 - 🎓 Pipeline for self-generating & choosing effective CoT few-shot demonstrations. "Universal Self-adaptive Prompting". 2023-05-24. [[>paper](https://arxiv.org/abs/2305.14926)]
 - 🎓 More reasoning (= longer reasoning traces) is better. "The Impact of Reasoning Step Length on Large Language Models". 2024-01-10. [[>paper](https://arxiv.org/abs/2401.04925)]
 - 🎓 Having (accordingly labeled) correct _and_ erroneous (few-shot) reasoning demonstrations improves CoT. "Contrastive Chain-of-Thought Prompting." 2023-11-17. [[>paper](https://arxiv.org/abs/2311.09277)]
