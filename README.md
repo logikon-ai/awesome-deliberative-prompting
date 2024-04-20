@@ -42,6 +42,8 @@ Evaluating Foundation Models." 2023-04-13. [[>paper](https://arxiv.org/abs/2304.
 - 🎓 Reasoning about alternative drafts improves text generation. "Self-Evaluation Improves Selective Generation in Large Language Models." 2023-12-14. [[>paper](https://arxiv.org/abs/2312.09300)]
 - 🎓 CoT with carefully retrieved, diverse reasoning demonstrations boosts multi-modal LLMs. "Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models." 2023-12-04. [[>paper](https://arxiv.org/abs/2312.01714)]
 - 🎓 Effective multi-hop CoT for visual question answering. "II-MMR: Identifying and Improving Multi-modal Multi-hop Reasoning in Visual Question Answering." 2024-02-16. [[>paper](https://arxiv.org/abs/2402.11058)]
+- 🎓 👩‍💻 DPO on synthetic CoT traces increases reason-responsiveness of small LLMs. "Making Reasoning Matter:
+Measuring and Improving Faithfulness of Chain-of-Thought Reasoning" 2024-02-23. [[>paper](https://arxiv.org/abs/2402.13950)] [[>code](https://debjitpaul.github.io/reasoningmatter)]
 
 
 
