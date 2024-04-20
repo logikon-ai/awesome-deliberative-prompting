@@ -57,6 +57,7 @@ _Prompting strategies and patterns to make LLMs deliberate._
 _Instructing LLMs to reason (in a specific way)._
 
 
+- 🔥🎓 Guided dynamic prompting increases GPT-4 CoT performance by up to 30 percentage points. "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text" 2024-02-20. [[>paper](https://arxiv.org/abs/2402.13415)]
 - 🎓 Letting LLMs choose and combine reasoning strategies is cost-efficient and improves performance. "SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures." 2024-02-06. [[>paper](https://arxiv.org/abs/2402.03620)]
 - 🎓 CoA: Produce an abstract reasoning trace first, and fill in the details (using tools) later. "Efficient Tool Use with Chain-of-Abstraction Reasoning." 2024-01-30. [[>paper](https://arxiv.org/abs/2401.17464)]
 - 🎓 Reason over and over again until verification test is passed. "Plan, Verify and Switch: Integrated Reasoning with Diverse X-of-Thoughts." 2023-10-23. [[>paper](https://arxiv.org/abs/2310.14628)]
