@@ -41,6 +41,7 @@ Evaluating Foundation Models." 2023-04-13. [[>paper](https://arxiv.org/abs/2304.
 - 🎓 Logical interpretation of internal layer-wise processing of reasoning tasks yields further evidence for reason-responsiveness. "Towards a Mechanistic Interpretation of Multi-Step Reasoning Capabilities of Language Model." 2023-12-07. [[>paper](https://arxiv.org/abs/2310.14491)]
 - 🎓 Reasoning about alternative drafts improves text generation. "Self-Evaluation Improves Selective Generation in Large Language Models." 2023-12-14. [[>paper](https://arxiv.org/abs/2312.09300)]
 - 🎓 CoT with carefully retrieved, diverse reasoning demonstrations boosts multi-modal LLMs. "Retrieval-augmented Multi-modal Chain-of-Thoughts Reasoning for Large Language Models." 2023-12-04. [[>paper](https://arxiv.org/abs/2312.01714)]
+- 🎓 Effective multi-hop CoT for visual question answering. "II-MMR: Identifying and Improving Multi-modal Multi-hop Reasoning in Visual Question Answering." 2024-02-16. [[>paper](https://arxiv.org/abs/2402.11058)]
 
 
 
