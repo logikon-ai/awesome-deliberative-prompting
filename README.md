@@ -57,6 +57,7 @@ _Prompting strategies and patterns to make LLMs deliberate._
 _Instructing LLMs to reason (in a specific way)._
 
 
+- 🎓 Asking GPT-4 to provide a correct and a wrong answers boosts accuracy. "Large Language Models are Contrastive Reasoners." 2024-03-13. [[>paper](https://arxiv.org/abs/2403.08211)]
 - 🔥🎓 Guided dynamic prompting increases GPT-4 CoT performance by up to 30 percentage points. "Structure Guided Prompt: Instructing Large Language Model in Multi-Step Reasoning by Exploring Graph Structure of the Text" 2024-02-20. [[>paper](https://arxiv.org/abs/2402.13415)]
 - 🎓 Letting LLMs choose and combine reasoning strategies is cost-efficient and improves performance. "SELF-DISCOVER: Large Language Models Self-Compose Reasoning Structures." 2024-02-06. [[>paper](https://arxiv.org/abs/2402.03620)]
 - 🎓 CoA: Produce an abstract reasoning trace first, and fill in the details (using tools) later. "Efficient Tool Use with Chain-of-Abstraction Reasoning." 2024-01-30. [[>paper](https://arxiv.org/abs/2401.17464)]
