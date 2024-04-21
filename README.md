@@ -150,6 +150,7 @@ _Methods for analysing LLM deliberation and assessing reasoning quality._
 
 _Things that don't work, or are poorly understood._
 
+- 🔥🎓 Causal analysis shows that LLMs sometimes ignore CoT traces, but reason responsiveness increases with model size, and is shaped by fine-tuning. "LLMs with Chain-of-Thought Are Non-Causal Reasoners" 2024-02-25. [[>paper](https://arxiv.org/abs/2402.16048)]
 - 🎓 Bad reasoning may lead to correct conclusions, hence better methods for CoT evaluation are needed. "SCORE: A framework for Self-Contradictory Reasoning Evaluation." 2023-11-16. [[>paper](https://arxiv.org/abs/2311.09603)]
 - 🎓 LLMs may produce "encoded reasoning" that's unintelligable to humans, which may nullify any XAI gains from deliberative prompting. "Preventing Language Models From Hiding Their Reasoning." 2023-10-27. [[>paper](https://arxiv.org/abs/2310.18512)]
 - 🎓 LLMs judge and decide in function of available arguments (reason-responsiveness), but are more strongly influenced by fallacious and deceptive reasons as compared to sound ones. "How susceptible are LLMs to Logical Fallacies?" 2023-08-18. [[>paper](https://arxiv.org/abs/2308.09853)]
