@@ -174,6 +174,7 @@ _Datasets containing examples of deliberative prompting, potentially useful for 
 - 🎓 _LegalBench_ - a benchmark for legal reasoning in LLMs [[>paper](https://arxiv.org/abs/2308.11462)]
 - 🎓👩‍💻 _ThoughtSource_ - an open resource for data and tools related to chain-of-thought reasoning in large language models. [[>paper](https://www.nature.com/articles/s41597-023-02433-3.pdf)] [[>code](https://github.com/OpenBioLink/ThoughtSource)]
 - 🎓👩‍💻 Review with lots of hints to CoT relevant datasets. "Datasets for Large Language Models: A Comprehensive Survey" [[>paper](https://arxiv.org/pdf/2402.18041.pdf)] [[>code](https://github.com/lmmlzn/Awesome-LLMs-Datasets)]
+- 👩‍💻 Maxime Labonne's LLM datasets list [[github](https://github.com/mlabonne/llm-datasets)] 
 
 ## Tools and Frameworks 
 
