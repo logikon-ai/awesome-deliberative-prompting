@@ -80,6 +80,7 @@ Reasoning by Large Language Models." 2023-05-06. [[>paper](https://aclanthology.
 _Let one (or many) LLMs simulate a free controversy._
 
 
+- 🎓 👩‍💻 Carefully selected open LLMs that iteratively review and improve their answers outperform GPT4-o. "Mixture-of-Agents Enhances Large Language Model Capabilities." 2024-06-10. [[>paper](https://arxiv.org/abs/2406.04692)] [[>code](https://github.com/togethercomputer/moa)]
 - 🎓 More elaborate and costly multi-agent-system designs are typically more effective, according to this review: "Are we going MAD? Benchmarking Multi-Agent Debate between Language Models for Medical Q&A." 2023-11-19. [[>paper](https://arxiv.org/abs/2311.17371)]
 - 🎓 Systematic peer review is even better than multi-agent debate. "Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration." 2023-11-14. [[>paper](https://arxiv.org/abs/2311.08152)]
 - 🎓 Collective critique and reflection reduce factual hallucinations and toxicity. "N-Critics: Self-Refinement of Large Language Models with Ensemble of Critics." 2023-10-28. [[>paper](https://arxiv.org/abs/2310.18679)]
