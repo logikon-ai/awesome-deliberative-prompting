@@ -139,7 +139,7 @@ _Let LLMs self-correct their deliberation._
 
 _Methods for analysing LLM deliberation and assessing reasoning quality._
 
-- 🎓👩‍💻 Comprehensive LLM-based reasoning analytics that breaks texts down into individual reasons. "DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models." 2024-01-04. [[>paper](https://arxiv.org/abs/2212.07919)] [[>code](https://github.com/intuit-ai-research/DCR-consistency)]
+- 🎓👩‍💻 Comprehensive LLM-based reasoning analytics that breaks texts down into individual reasons. "DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models." 2024-01-04. [[>paper](https://arxiv.org/abs/2401.02132)] [[>code](https://github.com/intuit-ai-research/DCR-consistency)]
 - 🎓🤗 Highly performant, open LLM (T5-based) for inference verification. "Minds versus Machines: Rethinking Entailment Verification with Language Models." 2024-02-06. [[>paper](https://arxiv.org/abs/2402.03686)] [[>model](soumyasanyal/entailment-verifier-xxl)]
 - 🎓👩‍💻 Test dataset for CoT evaluators. "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains." 2023-11-23. [[>paper](https://arxiv.org/abs/2402.00559)] [[>dataset](https://huggingface.co/datasets/google/reveal)]
 - 🎓👩‍💻 Framework for evaluating reasoning chains by viewing them as informal proofs that derive the final answer. "ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness." 2023-11-23. [[>paper](https://arxiv.org/abs/2304.10703)] [[>code](https://github.com/archiki/ReCEval)]
