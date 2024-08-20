@@ -152,6 +152,7 @@ _Methods for analysing LLM deliberation and assessing reasoning quality._
 
 _Things that don't work, or are poorly understood._
 
+- 🎓 Structured generation risks to degrade reasoning quality and CoT effectiveness. "Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models." 2024-08-05. [[>paper](https://arxiv.org/abs/2408.02442)]
 - 🎓 Filler tokens can be as effective as sound reasoning traces for eliciting correct answers. "Let's Think Dot by Dot: Hidden Computation in Transformer Language Models." 2024-04-24. [[>paper](https://arxiv.org/abs/2404.15758)]
 - 🔥🎓 Causal analysis shows that LLMs sometimes ignore CoT traces, but reason responsiveness increases with model size, and is shaped by fine-tuning. "LLMs with Chain-of-Thought Are Non-Causal Reasoners" 2024-02-25. [[>paper](https://arxiv.org/abs/2402.16048)]
 - 🎓 Bad reasoning may lead to correct conclusions, hence better methods for CoT evaluation are needed. "SCORE: A framework for Self-Contradictory Reasoning Evaluation." 2023-11-16. [[>paper](https://arxiv.org/abs/2311.09603)]
