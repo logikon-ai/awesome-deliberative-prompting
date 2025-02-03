@@ -1,5 +1,8 @@
 # Awesome Deliberative Prompting [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> [!NOTE]
+> _Deliberative prompting_, _chain-of-thought_, _self-reflection_ and _thinking_ have become mainstream techniques in AI. This archived opinionated reading lists documents the journey the community has taken to achieve this feat in less than 4 years, from the beginnings in 2021 to January 2025, when Deepseek R1 has been released. Thanks for following.
+
 **How to ask Large Language Models (LLMs) to produce reliable reasoning and make reason-responsive decisions.**
 
 > **deliberation**, n.
@@ -27,6 +30,7 @@
 
 _Striking evidence for effectiveness of deliberative prompting._
 
+- 🎓 One of the first attempts to elicit reasoning traces from LLMs to improve performance, includes experiments with GPT-2. "Thinking Aloud: Dynamic Context Generation Improves Zero-Shot Reasoning Performance of GPT-2." 2021-03-24. [[>paper](https://arxiv.org/abs/2103.13033)]
 - 🎓 The original "chain of though" (CoT) paper, first to give clear evidence that deliberative prompting works. "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models." 2022-01-28. [[>paper](https://arxiv.org/abs/2201.11903)]
 - 🎓 Deliberative prompting improves ability of Google's LLMs to solve unseen difficult problems, and instruction-finetuned (Flan-) models are much better at it.
   - "Scaling Instruction-Finetuned Language Models." 2022-12-06. [[>paper](https://arxiv.org/abs/2210.11416)]
@@ -44,7 +48,7 @@ Evaluating Foundation Models." 2023-04-13. [[>paper](https://arxiv.org/abs/2304.
 - 🎓 Effective multi-hop CoT for visual question answering. "II-MMR: Identifying and Improving Multi-modal Multi-hop Reasoning in Visual Question Answering." 2024-02-16. [[>paper](https://arxiv.org/abs/2402.11058)]
 - 🎓 👩‍💻 DPO on synthetic CoT traces increases reason-responsiveness of small LLMs. "Making Reasoning Matter:
 Measuring and Improving Faithfulness of Chain-of-Thought Reasoning" 2024-02-23. [[>paper](https://arxiv.org/abs/2402.13950)] [[>code](https://debjitpaul.github.io/reasoningmatter)]
-
+- 🎓 The impressive Deepseek R1 demonstrates that LLMs can learn effective problem solving, reflection, self-validation and self-correction through RL alone. "Deepseek R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning" 2025-02-03. [[>paper](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)]
 
 
 ## Prompting Patterns and Strategies 
